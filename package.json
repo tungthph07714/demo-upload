@@ -1,0 +1,24 @@
+{
+  "name": "demo-upload",
+  "version": "1.0.0",
+  "description": "demo upload",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungthph07714/demo-upload.git"
+  },
+  "keywords": [
+    "demo",
+    "upload",
+    "js"
+  ],
+  "author": "TungTH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tungthph07714/demo-upload/issues"
+  },
+  "homepage": "https://github.com/tungthph07714/demo-upload#readme"
+}
